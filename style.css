@@ -38,6 +38,25 @@ header li
     display: inline;
 }
 
+.container-2
+{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+footer
+{
+    text-align: center;
+    background-color: white;
+}
+
+
+.contact-email
+{
+    font-size: 1.2rem;
+}
+
+
 p.lead.pl-2 {
   font-size: 25px;
   color:rgba(221, 219, 72, 0.959);
